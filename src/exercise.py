@@ -6,7 +6,7 @@ def main():
         x = input('Enter a String:\n')
         if x == '':
             print(mystring[2])
-            loop = 'nm'
+            loop = 'n'
         else:
             mystring.append(x)
 
